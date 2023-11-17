@@ -16,4 +16,5 @@ models:
             tests:
                 - not_null_demo
                 - unique_records
+                - null_records
                
